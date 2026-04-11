@@ -53,7 +53,7 @@ DDoS 保護 60秒以下 立即安裝
 🔗 立即加入「雲端貓居 NyankoHost」了解更多 — 你的機器人新家正在等你～
 [點我加入~](https://dctw.xyz/servers/1404587685645123665)
 
-4.freeserver v3 (Minecraft)
+# 4.freeserver v3 (Minecraft)
 24/7的免費Minecraft伺服器! 以及Python等等!
 FreeServer v3 是由一群熱愛技術的學生所創立和維護的專案。我們的目標是為開發者和愛好者提供免費、高品質的伺服器託管服務。
 我們於台灣的是方宏鼎機房、香港的 Mega Gateway 機房皆設有節點，使用高效能的 EPYC 7002 / Intel Xeon Gold CPU，提供穩定的服務。
